@@ -1,7 +1,7 @@
 "use client";
-import ProductCard from "./ProductCard";
 import useEmblaCarousel from "embla-carousel-react";
 import Autoplay from "embla-carousel-autoplay";
+import ProductCard from "./ProductCard";
 
 interface Product {
   id: number;
