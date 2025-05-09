@@ -19,7 +19,7 @@ const Hero = () => {
           Book a call with us
         </button>
       </div>
-      <div className="flex items-center justify-between">
+      <div className="flex items-center justify-between mb-[83px]">
         <Fixmyphone />
         <Verdant />
         <Duet />

@@ -15,15 +15,15 @@ const Menu = () => {
             id="Vector"
             d="M5.83203 12H27.1654"
             stroke="white"
-            stroke-width="2"
-            stroke-linejoin="round"
+            strokeWidth="2"
+            strokeLinejoin="round"
           />
           <path
             id="Vector_2"
             d="M5.83203 20H27.1654"
             stroke="white"
-            stroke-width="2"
-            stroke-linejoin="round"
+            strokeWidth="2"
+            strokeLinejoin="round"
           />
         </g>
       </svg>

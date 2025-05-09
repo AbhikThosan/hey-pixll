@@ -10,7 +10,7 @@ const Verdant = () => {
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
       >
-        <g id="Verdant" clip-path="url(#clip0_1_503)">
+        <g id="Verdant" clipPath="url(#clip0_1_503)">
           <g id="Layer_1-2">
             <g id="Group">
               <path
